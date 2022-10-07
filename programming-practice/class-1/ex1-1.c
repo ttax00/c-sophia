@@ -1,6 +1,7 @@
-#include<stdio.h>
+#include <stdio.h>
 
-main() {
+main()
+{
 	printf("Sophia");
 	printf("University");
 }

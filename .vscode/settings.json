@@ -43,7 +43,10 @@
 		"xtr1common": "cpp",
 		"xutility": "cpp",
 		"sstream": "cpp",
-		"string": "cpp"
+		"string": "cpp",
+		"random": "cpp",
+		"algorithm": "cpp",
+		"vector": "cpp"
 	},
 	"editor.formatOnSave": true
 }

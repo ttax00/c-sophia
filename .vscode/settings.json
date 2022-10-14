@@ -46,7 +46,8 @@
 		"string": "cpp",
 		"random": "cpp",
 		"algorithm": "cpp",
-		"vector": "cpp"
+		"vector": "cpp",
+		"stdio.h": "c"
 	},
 	"editor.formatOnSave": true
 }

@@ -1,5 +1,6 @@
 {
 	"files.associations": {
+		"*.css": "css",
 		"atomic": "cpp",
 		"bit": "cpp",
 		"cctype": "cpp",
@@ -47,7 +48,11 @@
 		"random": "cpp",
 		"algorithm": "cpp",
 		"vector": "cpp",
-		"stdio.h": "c"
+		"stdio.h": "c",
+		"list": "cpp",
+		"numeric": "cpp",
+		"unordered_map": "cpp",
+		"xhash": "cpp"
 	},
 	"editor.formatOnSave": true
 }
